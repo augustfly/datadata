@@ -18,6 +18,8 @@ DEFAULT_CATEGORY = ('Blog')
 PATH = "content"
 STATIC_PATHS = ['images', 'files', 'extra/robots.txt', 'extra/favicon.ico']
 PLUGIN_PATH = '../src/pelican-plugins'
+# OUTPUT_PATH = 'output'
+# OUTPUT_PATH = '../html/datadata'
 
 # menuitems
 workshop = 'aas223'
