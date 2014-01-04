@@ -3,17 +3,24 @@ Slug: data-ice-breaker
 Date: 2014-01-02 17:14:15
 Author: August Muench
 Category: Workshop
-Tags: Workshop, Ice Breakers
+Tags: workshop,
 status: hidden
 
-# WELCOME
-This is a data ice breaker
+[Workshop Page]({filename}../workshop.md)
 
-You need to pair up.
-why am I doing this? 
-Goal is to find the other person's papers data.
-Find the paper.
+## A data ice breaker
 
-Fill out this survey.
+This exercise is intended to get you thinking about the data products that are created as part of our. 
+
+Here is what you need to do: 
+
+- You need to pair up.
+- why am I doing this? 
+- Goal is to find the other person's papers data.
+- Find the paper.
+
+Use this survey to keep track of your notes during this data interview. 
+
+[Data Interview]({filename}./data_interview.md)
 
  
