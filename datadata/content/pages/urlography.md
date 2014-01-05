@@ -6,4 +6,16 @@ Category: Workshop
 Tags: workshop, links, urls
 Summary: 
 
-Link list
+### Domain Independent Repositories
+
+figshare
+:	[figshare](http://figshare.com) is a 
+
+zenodo
+:	[zenodo](http://zenodo.org) is a 
+
+### Astronomy Repositories
+
+### Data Management Tools
+
+### Data Management Resources

@@ -23,9 +23,9 @@ PLUGIN_PATH = '../src/pelican-plugins'
 
 # menuitems
 workshop = 'aas223'
-MENUITEMS = [('Workshop', '/pages/{0}-workshop.html'.format(workshop)),
-			 ('URLography', '/pages/urlography.html'),
-             ]
+# MENUITEMS = [('Workshop', '../pages/{0}-workshop.html'.format(workshop)),
+			 # ('URLography', '../pages/urlography.html'),
+             # ]
 
 # Set the article URL
 ARTICLE_URL = 'blog/{date:%Y}/{date:%m}/{date:%d}/{slug}/'
@@ -67,7 +67,9 @@ SOCIAL = None
 # (('Twitter', 'https://twitter.com/augustmuench'),
 #           )
 
-PLUGINS = ['sitemap']
+MD_EXTENSIONS = ['extra']
+PLUGINS = ['sitemap', 'liquid_tags.img', 'liquid_tags.video',
+           'liquid_tags.include_code']
 
 # sitemap
 SITEMAP = {
@@ -85,12 +87,12 @@ SITEMAP = {
 }
 
 # Uncomment following line if you want document-relative URLs when developing
-#RELATIVE_URLS = True
+RELATIVE_URLS = True
 
 DISPLAY_CATEGORIES_ON_MENU = False
 DISPLAY_CATEGORIES_ON_SIDEBAR = True
 
-DISPLAY_PAGES_ON_MENU = False
+DISPLAY_PAGES_ON_MENU = True
 DISPLAY_TAGS_ON_SIDEBAR = True
 
 DISPLAY_RECENT_POSTS_ON_SIDEBAR = True

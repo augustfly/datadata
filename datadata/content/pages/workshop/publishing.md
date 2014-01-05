@@ -1,9 +1,12 @@
-Title: What is this data publishing thing?
-Slug: what-is-this-data-publishing-thing
+Title: Working with Astronomy Publishers
+Slug: working-with-astronomy-publishers
 Date: 2014-01-04 03:19:11
 Author: August Muench
 Category: Workshop
-Tags: workshop,
+Tags: workshop, astronomy, aas223, publishers
 status: hidden
 
-## About
+### Publishers
+
+### Embedding decisions
+
