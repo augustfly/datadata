@@ -5,34 +5,34 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>http://augustfly.github.io/datadata/index.html</loc>
-<lastmod>2014-01-04T22:44:06-00:00</lastmod>
+<lastmod>2014-01-05T09:00:36-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>http://augustfly.github.io/datadata/archives.html</loc>
-<lastmod>2014-01-04T22:44:06-00:00</lastmod>
+<lastmod>2014-01-05T09:00:36-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>http://augustfly.github.io/datadata/tags.html</loc>
-<lastmod>2014-01-04T22:44:06-00:00</lastmod>
+<lastmod>2014-01-05T09:00:36-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>http://augustfly.github.io/datadata/categories.html</loc>
-<lastmod>2014-01-04T22:44:06-00:00</lastmod>
+<lastmod>2014-01-05T09:00:36-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://augustfly.github.io/datadata/pages/aas-223.html</loc>
+<loc>http://augustfly.github.io/datadata/pages/aas-223-data-sharing-workshop.html</loc>
 <lastmod>2014-01-04T14:47:35-00:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
@@ -53,8 +53,15 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
-<loc>http://augustfly.github.io/datadata/pages/workshops.html</loc>
+<loc>http://augustfly.github.io/datadata/pages/workshop-log.html</loc>
 <lastmod>2014-01-02T17:13:02-00:00</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>http://augustfly.github.io/datadata/blog/2014/01/04/evaluate-the-aas-223-workshops/</loc>
+<lastmod>2014-01-04T23:39:36-00:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
@@ -75,14 +82,14 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>http://augustfly.github.io/datadata/category/blog.html</loc>
-<lastmod>2014-01-02T17:09:45-00:00</lastmod>
+<lastmod>2014-01-04T23:39:36-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>http://augustfly.github.io/datadata/tag/blog.html</loc>
-<lastmod>2014-01-02T17:07:40-00:00</lastmod>
+<lastmod>2014-01-04T23:39:36-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -96,14 +103,21 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>http://augustfly.github.io/datadata/tag/workshop.html</loc>
-<lastmod>2014-01-02T17:09:45-00:00</lastmod>
+<lastmod>2014-01-04T23:39:36-00:00</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>http://augustfly.github.io/datadata/tag/evaluation.html</loc>
+<lastmod>2014-01-04T23:39:36-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>http://augustfly.github.io/datadata/author/august-muench.html</loc>
-<lastmod>2014-01-02T17:09:45-00:00</lastmod>
+<lastmod>2014-01-04T23:39:36-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
