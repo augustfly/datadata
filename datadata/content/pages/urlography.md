@@ -5,11 +5,12 @@ Author: August Muench
 Category: Workshop
 Tags: workshop, links, urls
 Summary: 
+status: hidden
 
 ### Domain Independent Repositories
 
 figshare
-:	[figshare](http://figshare.com) is a 
+:	[figshare](http://figshare.com)
 
 zenodo
 :	[zenodo](http://zenodo.org) is a 

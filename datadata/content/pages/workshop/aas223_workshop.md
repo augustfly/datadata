@@ -15,26 +15,20 @@ After the workshop, please take the time to fill out a [AAS 223 Professional Dev
 
 [AAS 223 Logistics]({filename}./aas223_logistics.md)
 
-[A Story: the SS Data]({filename}./ssdata.md)
-
 [Data Ice Breaker]({filename}./data_ice_breaker.md)
 
+<!-- [A(nother) Data Story]({filename}./ssdata.md)
+
 [Nitty Gritty]({filename}./nitty_gritty.md)
+ -->
+[About Repositories]({filename}./repositories.md)
 
-[Astronomy Repositories]({filename}./astro_repos.md)
+<!-- [Working with Funders and Publishers]({filename}./publishing.md) -->
 
-[Generic Repositories]({filename}./generic_repos.md)
+<!-- ### Useful Pages
 
-[Making connections]({filename}./connections.md)
-
-[Working with Publishers]({filename}./publishing.md)
-
-[Working with Funders]({filename}./funders.md)
-
-### Useful Pages
-
-[Compendium of Links]({filename}../urlography.md)
-
+[URLography]({filename}../urlography.md)
+ -->
 <!-- [Managing]({filename}./managing.md)
 
 [Sharing]({filename}./sharing.md)

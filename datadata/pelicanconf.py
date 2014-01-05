@@ -44,6 +44,7 @@ TRANSLATION_FEED_ATOM = None
 THEME = "pelican-bootstrap3"
 BOOTSTRAP_THEME = 'spacelab'
 # BOOTSTRAP_THEME = 'readable'
+CSS_FILE = "nice_table.css"
 
 # varia
 # TWITTER_USERNAME = "augustmuench" 
