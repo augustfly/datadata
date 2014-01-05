@@ -6,4 +6,16 @@ Category: Workshop
 Tags: about
 Summary: About the author.
 
-A very simple about page
+**August Muench**
+
+ Work Email
+ :    [gmuench at cfa harvard edu](mailto:gmuench@cfa.harvard.edu)
+ 
+ Gmail and Gchat
+ :    [august.fly at gmail com](mailto:august.fly@gmail)
+ 
+ Twitter
+ :    [@augustmuench](https://twitter.com/augustmuench)
+
+ Profile
+ :    [Profile](https://plus.google.com/+AugustMuench)

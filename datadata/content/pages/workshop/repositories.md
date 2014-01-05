@@ -35,7 +35,7 @@ User Interfaces
 Data Viewers
 : The ability to view or embed your data in a repository varies from tool to tool. figshare has some of the best data viewers, including one for FITS files and cubes. 
 
-{% img /images/figshare.jpg 150 "figshare" "figshare" %}
+{% img ../images/figshare.jpg 150 "figshare" "figshare" %}
 
 [**figshare**](http://figshare.com/about)
 
@@ -43,14 +43,14 @@ Data Viewers
 - Great Social Networking and Data Set Viewers
 - Supported by Nature Publishing
 
-{% img /images/zenodo.png 150 "zenodo" "zenodo" %}
+{% img ../images/zenodo.png 150 "zenodo" "zenodo" %}
 
 [**zenodo**](https://zenodo.org/features)
 
 - Collections features
 - Supported by CERN/EU
 
-{% img /images/dataverse.jpg 150 "dataverse" "dataverse" %}
+{% img ../images/dataverse.jpg 150 "dataverse" "dataverse" %}
 
 [**dataverse**](http://thedata.harvard.edu/) 
 
