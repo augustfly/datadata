@@ -1,0 +1,14 @@
+
+Total fail.
+
+They want:
+   - a doc/html/pdf version of the data interview to reuse.
+   - more links
+   - desktop publishing examples
+   - standards of practise to follow
+
+I should:
+   - finish the URLology page. 
+   - list desktop examples.
+   - add scidrive example page.
+

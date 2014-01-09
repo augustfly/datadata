@@ -9,9 +9,12 @@ status: hidden
 ### Astronomy Repositories
 
 [**Vizier**](http://vizier.u-strasbg.fr/viz-bin/VizieR)
+[**NED**](http://ned.ipac.caltech.edu/)
 
-- Accepts data from published papers
-- [Strict formatting rules](http://cds.u-strasbg.fr/vizier/submit.htx), which enable API data access.
+- Accepts data from published papers where provance is known.
+- Strict formatting rules, which enable API data access.
+    - [Vizier](http://cds.u-strasbg.fr/vizier/submit.htx)
+    - [NED](http://ned.ipac.caltech.edu/help/faq2.html#2g)
 
 **High Level Science Archives (NASA)**
 
